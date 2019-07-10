@@ -1,11 +1,10 @@
-[.header: alignment(center), text-scale(1.8)]
+[.header: alignment(center)]
 
-# Experimental Features in Scikit-learn
+## Experimental Features in Scikit-learn
 
-Thomas J Fan
-@thomasjpfan
+### Thomas J Fan - @thomasjpfan
 
-scikit-learn core developer
+### scikit-learn core developer
 
 ---
 
