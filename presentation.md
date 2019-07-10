@@ -96,3 +96,5 @@ from sklearn.impute import IterativeImputer
 ## Thank you! 😎
 
 ### @thomasjpfan
+
+github.com/thomasjpfan/sklearn\_experimental\_talk
