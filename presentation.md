@@ -54,10 +54,6 @@ from sklearn.ensemble import HistGradientBoostingClassifier
 
 ## Implementation 🤯
 
-[.code-highlight: all]
-[.code-highlight: 1-4]
-[.code-highlight: 6-11]
-
 ```python
 # sklearn/experimental/enable_hist_gradient_boosting.py
 from ..ensemble._hist_gradient_boosting.gradient_boosting import (
@@ -90,4 +86,4 @@ from sklearn.impute import IterativeImputer
 
 ### @thomasjpfan
 
-github.com/thomasjpfan/sklearn\_experimental\_talk
+github.com/thomasjpfan/sklearn_experimental_talk
