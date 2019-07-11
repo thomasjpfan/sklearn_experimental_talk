@@ -46,12 +46,6 @@ from sklearn.experimental import enable_hist_gradient_boosting
 from sklearn.ensemble import HistGradientBoostingClassifier
 ```
 
-or if "graduated" from experimental
-
-```python
-from sklearn.ensemble import HistGradientBoostingClassifier
-```
-
 ---
 
 ## Implementation ⁉️
@@ -60,7 +54,8 @@ from sklearn.ensemble import HistGradientBoostingClassifier
 
 ## Implementation 🤯
 
-[.code-highlight: all][.code-highlight: 1-4]
+[.code-highlight: all]
+[.code-highlight: 1-4]
 [.code-highlight: 6-11]
 
 ```python
@@ -95,4 +90,4 @@ from sklearn.impute import IterativeImputer
 
 ### @thomasjpfan
 
-github.com/thomasjpfan/sklearn_experimental_talk
+github.com/thomasjpfan/sklearn\_experimental\_talk
