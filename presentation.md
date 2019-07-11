@@ -2,9 +2,11 @@
 
 ## Experimental Features in Scikit-learn
 
-### Thomas J Fan - @thomasjpfan
+#### Thomas J Fan
 
-### scikit-learn core developer
+#### @thomasjpfan
+
+#### scikit-learn core developer
 
 ---
 
@@ -60,8 +62,7 @@ from sklearn.ensemble import HistGradientBoostingClassifier
 
 ## Implementation 🤯
 
-[.code-highlight: all]
-[.code-highlight: 1-4]
+[.code-highlight: all][.code-highlight: 1-4]
 [.code-highlight: 6-11]
 
 ```python
@@ -96,4 +97,4 @@ from sklearn.impute import IterativeImputer
 
 ### @thomasjpfan
 
-github.com/thomasjpfan/sklearn\_experimental\_talk
+github.com/thomasjpfan/sklearn_experimental_talk
