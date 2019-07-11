@@ -2,9 +2,7 @@
 
 ## Experimental Features in Scikit-learn
 
-#### Thomas J Fan
-
-#### @thomasjpfan
+### Thomas J Fan - @thomasjpfan
 
 #### scikit-learn core developer
 
